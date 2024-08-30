@@ -22,3 +22,4 @@ O objetivo é a criação de uma loja virtual, com backend e frontend funcional.
 -   CSS
 -   JavaScript
 
+Componentes: John Hennig, Lucas Kraemer e Luisa Johanna
