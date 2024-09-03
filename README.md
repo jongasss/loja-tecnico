@@ -1,5 +1,16 @@
 # Geekverse Portal
 
+
+## Instruções
+
+Está seção irá trazer um passo a passo para que nossa aplicação funcione corretamente.
+
+- Abra o Git Bash na pasta Backend e rode o codigo "npm install"
+- Com as dependencias instaladas, rode o codigo "npm start"
+- Confirme se está tudo de acordo com a mensagem "Rodando na porta ####"
+- Se não aparecer a devida mensagem, volte no passo a passo
+- 
+
 ## Requisitos
 
 Esta seção mostra as funcionalidades que o site precisa ter.
